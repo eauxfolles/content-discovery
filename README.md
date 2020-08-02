@@ -1,6 +1,6 @@
 # content-discovery
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 PoC/Alpha of a tool written in Python to support with "Content Discovery" during mapping of a web applications/sites.
 
