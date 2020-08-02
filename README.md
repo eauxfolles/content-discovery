@@ -11,3 +11,5 @@ Where:
 - "dictionary" is the name of an optional dictionary to be used (located in same folder as the tool)
 
 Two dictionaries (one for files, one for folders) are available to proof functionality. 
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
