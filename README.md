@@ -1,5 +1,6 @@
 # content-discovery
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 PoC/Alpha of a tool written in Python to support with "Content Discovery" during mapping of a web applications/sites.
 
 Function: Tool loads external file including names of files or folder which should be discovered. A target list is created consisting of a combination of the target URL and the possible files or folders. Probing is conducted and response displayed for each mix.  
