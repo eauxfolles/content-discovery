@@ -4,7 +4,7 @@
 
 PoC/Alpha of a tool written in Python to support with "Content Discovery" during mapping of a web applications/sites.
 
-Function: Tool loads external file including names of files or folder which should be discovered. A target list is created consisting of a combination of the target URL and the possible files or folders. Probing is conducted and response displayed for each mix.  
+Function: Tool loads external file including names of files or folder which should be discovered. A target list is created consisting of a combination of the target URL and the possible files or folders. Probing is conducted and response displayed for each mix. Tested under Windows.
 
 ***Usage:*** "condisc.py -option url [dictionary]"
 
