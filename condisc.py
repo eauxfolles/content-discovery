@@ -21,7 +21,7 @@ brute_list = []				# list joining url and file or folder
 # function to validate input provided with command line (has to be 2 or 3 parameters)
 def validate_command_line():
 
-	# validate correct use of calling an options or parameter and set variable
+	# validate correct use of calling an option or parameter and set variable
 	if len(sys.argv) < 2:
 		print_header(exit_code = "error: no parameters provided")
 	elif len(sys.argv) > 4:
