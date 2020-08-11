@@ -9,8 +9,8 @@ Tool loads external file including names of files or folder which should be disc
 ***Usage:*** "condisc.py -option url [dictionary]"
 
 Where: 
-- "-option" is either "-files" or "-folders"
-- "url" is the target URL including identifier for the used protocol (e.g. https://www.example.com)
-- "dictionary" is the name of an optional dictionary to be used (located in same folder as the tool)
+* "-option" is either "-files" or "-folders".
+* "url" is the target URL including identifier for the used protocol (e.g. https://www.example.com).
+* "\[dictionary]" is the name of an optional dictionary to be used (located in same folder as the tool).
 
 Two dictionaries (one for files, one for folders) are available to proof functionality. 
